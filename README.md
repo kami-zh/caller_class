@@ -1,5 +1,8 @@
 # CallerClass
 
+[![Build Status](https://travis-ci.org/kami30k/caller_class.svg)](https://travis-ci.org/kami30k/caller_class)
+[![Gem Version](https://badge.fury.io/rb/caller_class.svg)](http://badge.fury.io/rb/caller_class)
+
 CallerClass provides the way that to get caller class name that is calling from the body of a class definition.
 
 ## Installation
